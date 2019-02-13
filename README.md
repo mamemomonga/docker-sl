@@ -1,6 +1,7 @@
 # sl
 
 * https://github.com/mtoyoda/sl
+* https://ja.wikipedia.org/wiki/Sl_(UNIX)
 * https://hub.docker.com/r/mamemomonga/sl
 
 # USAGE
