@@ -6,5 +6,6 @@ RUN set -xe && \
 	apt-get install -y --no-install-recommends sl && \
 	rm -rf /var/lib/apt/lists/*
 
-ENTRYPOINT ["/usr/games/sl"]
+ADD entrypoint.sh /entrypoint.sh
+ENTRYPOINT ["/entrypoint.sh"]
 

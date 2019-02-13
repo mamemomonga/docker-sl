@@ -4,7 +4,7 @@ https://github.com/mtoyoda/sl
 
 # USAGE
 
-	$ alias sl="docker run --rm mamemomonga/sl"
+	$ alias sl="docker run -t --rm mamemomonga/sl"
 	$ sl -a
 	$ sl -l
 	$ sl -F
