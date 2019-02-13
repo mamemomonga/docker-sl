@@ -1,6 +1,7 @@
 # sl
 
-https://github.com/mtoyoda/sl
+* https://github.com/mtoyoda/sl
+* https://hub.docker.com/r/mamemomonga/sl
 
 # USAGE
 
